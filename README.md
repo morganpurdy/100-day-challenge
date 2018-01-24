@@ -5,4 +5,7 @@ I am just trying to get used to using a new text editor and getting the feel bac
 
 
 ## Day 2
-On day two I am just continuing with the command line lessons in Codecademy. I am learning about input and output redirections and creating an environment in the terminal. I am hoping to finish up this module today and start with the freecodecamp.org lessons tomorrow! 
+On day two I am just continuing with the command line lessons in Codecademy. I am learning about input and output redirections and creating an environment in the terminal. I am hoping to finish up this module today and start with the freecodecamp.org lessons tomorrow!
+
+##Day 3
+Today I finished the command line lessons in Codecademy! Very excited to be done with that and to head into the freecodecamp.org lessons. I started on those before the challenge since I was already a little familiar with HTML and CSS. Looks like tomorrow I will start with "Nest Many Elements within a Single Div Element". I'm excited! Can't wait to get through the HTML/CSS part though to get onto the next chunk, which is Responsive Design with Bootstrap!
