@@ -20,3 +20,6 @@ Didn't get the chance to do much today but at least wanted to check in. I took a
 Today I finsihed up the freecodecamp.org lessons on Responsive design and bootstrap! It's amazing how much you can do with bootstrap and how simple it can make things. I did have a couple questions as I was working through some of the lessons. The first was with the columns to build in a bootstrap grid.
 **1. How do you decide when to use each grid size?**
 In the lesson I was working with a simulated phone screen, so I used the xs size. And it said (I think) md (medium) is used for laptop screens. But how do I decide which one to use? A couple lessons later the span tag was mentioned. It did say that span can help you style different parts of the same element differently. **But why use a span tag over a div class or div id?** Just some thoughts. Maybe it will become more clear as I continue. Can't wait to start on the jQuery lessons tomorrow!
+
+## Day 7
+I took a short dive into jQuery today! I feel like I didn't have enough time and attention to focus on it so I'm going to come back to some lessons tomorrow. I think I understand more about span vs. div class and div id question I was wondering about yesterday. Definitely the id part! Not sure about class vs. span still. I am finally off work tomorrow so I will have more time to dedicate to coding, yay!
