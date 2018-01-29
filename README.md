@@ -36,4 +36,12 @@ Tonight I worked on coding my tribute page. I decided to dedicate my page to Nao
 Either way, I hope to finish up my tribute page tomorrow after sleeping on it for a bit!
 
 ## Day 9
-Today I finished a thing! Last night I started on Tribute Page as part of challenge for Freecodecamp. It is pretty basic and only had two requirements: The user can view a tribute page with an image and text, and they can click on a link that will take  them to a new page for more information. I finished it up today after some more tweaks this morning. I did discover an answer to a question I had yesterday. Img-responsive is now Img-fluid in Bootstrap 4. So that explains why that wasn't working. I figured out how to keep my image centered at wider screen widths too! It's not a perfect project but I think it is definitely a good accomplishment for my first one. 
+Today I finished a thing! Last night I started on Tribute Page as part of challenge for Freecodecamp. It is pretty basic and only had two requirements: The user can view a tribute page with an image and text, and they can click on a link that will take  them to a new page for more information. I finished it up today after some more tweaks this morning. I did discover an answer to a question I had yesterday. Img-responsive is now Img-fluid in Bootstrap 4. So that explains why that wasn't working. I figured out how to keep my image centered at wider screen widths too! It's not a perfect project but I think it is definitely a good accomplishment for my first one.
+
+Up next is building a **PERSONAL PORTFOLIO WEBSITE**. Honestly this is what I was looking most forward to entering the freecodecamp program and this 100 day challenge. At first the example looks a little daunting. But I am excited to jump in! Here are the requirements/user stories:
+1. User Story: I can access all of the portfolio webpage's content just by scrolling.
+2. User Story: I can click different buttons that will take me to the portfolio creator's different social media pages.
+3. User Story: I can see thumbnail images of different projects the portfolio creator has built (if you haven't built any websites before, use placeholders.)
+4. User Story: I navigate to different sections of the webpage by clicking buttons in the navigation.
+
+Those seem like some tricky requirements! But I am looking forward to giving it a shot. 
