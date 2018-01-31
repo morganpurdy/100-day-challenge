@@ -44,4 +44,7 @@ Up next is building a **PERSONAL PORTFOLIO WEBSITE**. Honestly this is what I wa
 3. User Story: I can see thumbnail images of different projects the portfolio creator has built (if you haven't built any websites before, use placeholders.)
 4. User Story: I navigate to different sections of the webpage by clicking buttons in the navigation.
 
-Those seem like some tricky requirements! But I am looking forward to giving it a shot. 
+Those seem like some tricky requirements! But I am looking forward to giving it a shot.
+
+## Day 10
+Today I started working on my portfolio website! It is going to be a lot more in depth and intense than the tribute page. I spent a significant amount of time today working on the nav bar. I had to use several resources to help me through it, including the Bootstrap documentation and w3 schools, another really helpful website! After some reading, and copy and pasting, I finally got one up and working. I want to take a deeper look at it another day though to make sure I understand how (most of it at least) works, rather than just relying on copying and pasting some code.  
