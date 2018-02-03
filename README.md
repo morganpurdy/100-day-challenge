@@ -54,3 +54,7 @@ I did not have a lot of time to work on coding today. I squeezed in some time at
 
 ## Day 12
 I like to check in every day because it kind of forces me to do something worth writing about. So today in the little down time at work I had, I looked a little more into contact forms in Bootstrap. I tweaked the contact form a little on my portfolio page. I learned that the form-control class makes the form part take up 100% of the width of wherever it is. So that's cool! I also made the "message" part of my form be 'textarea' as opposed to 'input' so it could appear deeper. Just little things, but one step at a time.
+
+
+## Day 14
+So I missed out working on any coding yesterday. It was just a busy day! And I had hardly any time today to do anything but I squeezed in a little work. I added to the "about me" portion of my portfolio page. I summarized my experience and then I wanted to add Font Awesome social media buttons, but those gave me trouble. Haven't been able to solve that yet. I am wondering if Codepen is just a little weird about them? I don't think I'll have a ton of time tonight or tomorrow to figure it out. But then I am off Monday and Tuesday so I hope to take advantage of those days!
