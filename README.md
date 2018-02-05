@@ -65,4 +65,14 @@ Today I spent my hour chatting with other people involved with the 100 day chall
 * Figuring out how to set up a form. It must involve a database of some sort. But it would be cool to get to the bottom of that!
 * Using Font awesome icons to link to my social media accounts on my portfolio. There was a lesson on the icons in Freecodecamp but it's not working quite right in Codepen.
 
-Maybe tomorrow I can also look up some articles about being a self-taught coder/developer! Maybe that will encourage me a little more each day. 
+Maybe tomorrow I can also look up some articles about being a self-taught coder/developer! Maybe that will encourage me a little more each day.
+
+## Day 16
+I solved two of the problems I noted yesterday with my portfolio site! First- the images I was hosting through Dropbox weren't showing up because of a privacy setting, sort of as I suspected. Dropbox changed the way they do their public folders so that won't work anymore. I did a quick search for "free image hosting" and found an uploader that seems to be working for now, but we'll see. Seems like just a quick fix for now, I will want to look for a betters solution in the future. Second- those pesky Font awesome icons. So I had linked to font awesome through the CSS and Javascript setting section in Codepen. And it still wasn't working. But after starting at the Font Awesome home page, I saw a link that was for "Use Font Awesome Free CDN". It was a script tag, so I pasted it in the HTML "head stuff" setting in Codepen, and BOOM! The icons appeared. The different ways of using Font Awesome are all a little jargon-y for me, like 'content delivery network' vs. SVG with JS (why I thought I needed to link to it in the Javascript section too) vs. downloading it. But the point is, it works for now!
+
+Going through Codepen and FreeCodeCamp though, I think they do a small disservice to users by not going over the fundamentals of an HTML document from the start, like DOCTYPE and how to link to a stylesheet. In Codepen you just start right away with Divs and containers and other tags/classes because the Head stuff is just out of sight, out of mind. But the head data/stuff it is an important part of starting an HTML document from scratch. Just a thought.
+
+Going forward, **here are a few more things I want to do on my portfolio site:**
+* Add more of the projects I did in college to the "web examples" portion of my site. This will mean figuring out how to get them to Github and doing a github project page for them! Right now they are only displaying in Safari so that is a little confusing to me.
+* Figuring out that contact form! I think for now I will just have to sit tight with the appearance of a contact form. Seems like I could actually get it to function once I get into the Javascript part of the FreeCodeCamp challenges.
+* Understanding more about the collapsable nav bar. Today I noticed it collapses correctly and actually displays a drop down menu when you click the button. I'm not sure how that happened. Maybe a certain class I added today helped? I want to look more into the collapsing and breakpoints and such. 
