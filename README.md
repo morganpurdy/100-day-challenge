@@ -58,3 +58,11 @@ I like to check in every day because it kind of forces me to do something worth 
 
 ## Day 14
 So I missed out working on any coding yesterday. It was just a busy day! And I had hardly any time today to do anything but I squeezed in a little work. I added to the "about me" portion of my portfolio page. I summarized my experience and then I wanted to add Font Awesome social media buttons, but those gave me trouble. Haven't been able to solve that yet. I am wondering if Codepen is just a little weird about them? I don't think I'll have a ton of time tonight or tomorrow to figure it out. But then I am off Monday and Tuesday so I hope to take advantage of those days!
+
+## Day 15
+Today I spent my hour chatting with other people involved with the 100 day challenge. It was really cool to hear about their experiences and what they are learning about and building. The two people I talked to are involved with coding programs in school or online. It makes me think more about the industry and its challenges, but in a good way I think. I feel inspired and rededicated to the challenge after a day like today! I am excited I have tomorrow off to spend some time getting back to my portfolio site. The few bugs I am focused on working out are:
+* Making images actually appear not just on my personal computer. Right now I link to them through a dropbox account. Could it be in privacy settings?
+* Figuring out how to set up a form. It must involve a database of some sort. But it would be cool to get to the bottom of that!
+* Using Font awesome icons to link to my social media accounts on my portfolio. There was a lesson on the icons in Freecodecamp but it's not working quite right in Codepen.
+
+Maybe tomorrow I can also look up some articles about being a self-taught coder/developer! Maybe that will encourage me a little more each day. 
