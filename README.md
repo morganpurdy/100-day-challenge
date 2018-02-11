@@ -92,4 +92,7 @@ Earlier this morning I spent some time looking more in to Git. I think I may hav
 
 In the meantime, I think I am going to submit my portfolio page to FreeCodeCamp. It meets all the requirements for the challenge. However, it doesn't meet my requirements. So I think I am going to submit it so I can continue with Javascript lessons so I can make my portfolio even better on my own!
 
-Side note: I found this article I'm going to leave here to hopefully come back to and read: https://coderwall.com/p/wpjw4w/change-the-bootstrap-navbar-breakpoint . 
+Side note: I found this article I'm going to leave here to hopefully come back to and read: https://coderwall.com/p/wpjw4w/change-the-bootstrap-navbar-breakpoint .
+
+## Day 21
+So I missed out on doing any coding work yesterday. And today I didn't have much time to devote to it. I'm a little behind lately. I did submit my portfolio project to FreeCodeCamp so I could proceed with the Javascript sections. Woot! The very first lesson was on commenting out Javascript but then it launched right into variables, strings, data and the seven data types. I really want to take notes on this section so I think I'm going to tackle it more on Monday/Tuesday. Tomorrow my hour will be devoted to chatting with my fellow coders in the challenge!
