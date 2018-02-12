@@ -96,3 +96,23 @@ Side note: I found this article I'm going to leave here to hopefully come back t
 
 ## Day 21
 So I missed out on doing any coding work yesterday. And today I didn't have much time to devote to it. I'm a little behind lately. I did submit my portfolio project to FreeCodeCamp so I could proceed with the Javascript sections. Woot! The very first lesson was on commenting out Javascript but then it launched right into variables, strings, data and the seven data types. I really want to take notes on this section so I think I'm going to tackle it more on Monday/Tuesday. Tomorrow my hour will be devoted to chatting with my fellow coders in the challenge!
+
+## Day 22
+Today! So much great progress today. I finally figured out how to publish my tribute page on github! At the coding meetup I walked through the steps of pushing my new tribute page repository to Github. Then, on a hunch, I just set project page to publish from the Master branch. After some waiting-- success! You can find it at https://morganpurdy.github.io/tribute-page/ . So I am not sure what the other directions are meant to do but nothing more is needed than to go to your github settings. I think I am going to add a footer to the tribute page that links directory to the repository as well.
+
+Then, later in the day I started in on some Javascript lessons. I didn't realize how much math you can do with Javascript. I wonder how much of Javascript is doing that. I proceeded into compound assignments. THEN I came upon my first real challenge that stumped me. It was writing a solution in Javascript to convert Celsius to fahrenheit. I thought I wouldn't be able to figure it out. I realized that you have to think like a computer: very logically! Here is the code:
+
+```Javascript
+function convertToF(celsius) {
+  var fahrenheit;
+  // Only change code below this line (written by me)
+  fahrenheit = celsius*1.8+32;
+
+  // Only change code above this line
+  return fahrenheit;
+}
+
+// Change the inputs below to test your code
+convertToF(30);
+```
+It was literally just writing out the conversion. I don't know why that was so hard for me but I was really glad to figure it out. 
