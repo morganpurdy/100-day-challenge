@@ -115,4 +115,11 @@ function convertToF(celsius) {
 // Change the inputs below to test your code
 convertToF(30);
 ```
-It was literally just writing out the conversion. I don't know why that was so hard for me but I was really glad to figure it out. 
+It was literally just writing out the conversion. I don't know why that was so hard for me but I was really glad to figure it out.
+
+## Day 23
+For my hour today, I worked through a bunch of Javascript lessons in FreeCodeCamp. I learned about strings, literal quotes in strings, and a funky thing called concatenating, which is a way of linking strings together. The basic lesson just had me link two strings together using +, in this case the concatenation operator. There must be a use for this when you wouldn't want to type it all together. One way it is useful I learned is if you use += to concatenate a string onto the end of an existing variable. I also built a small madlib game in FreeCodeCamp to practice my skills! I think that was really good practice for understanding variables and concatenation.
+
+Today I also learned about bracket notation in Javascript and how you can use it to find the length of a string or a certain character in a string.
+
+Additionally, I got into arrays a little! I vaguely remember arrays from college and I feel like they are very important. 
