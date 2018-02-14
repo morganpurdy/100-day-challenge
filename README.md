@@ -147,4 +147,20 @@ console.log("After: " + JSON.stringify(testArr));
 
 I feel good that I was able to figure out the basic concepts needed to solve the problem, but wish I could have figured it out on my own without having to look at the solution. It is all very logical and makes sense, after the fact of course. I feel like also maybe being out in the real world/wild/coding something for myself I could have figured this out. Using arbitrary values like "arr" and "item" sometimes makes it harder to solve problems I think. Or at least that's what I'm telling myself.
 
-Anyway, I marched forward and also learned about Booleans and a bunch of different equality operators! Those seem  pretty straight forward at least. The next lessons involve else statments, so that will be interesting. 
+Anyway, I marched forward and also learned about Booleans and a bunch of different equality operators! Those seem  pretty straight forward at least. The next lessons involve else statements, so that will be interesting.
+
+## Day 26
+Today I took a short dive into else statements. I learned that when the condition for an if statement is true, the code will be executed. But when the condition is false, normally nothing would happen. However, with an else statement, an alternate block of code can be executed. You can even go a step further. If multiple conditions need to be addressed, you can use "else if" statements, which you can chain together.
+
+I ended today on writing a Golf code function. It returned a certain string based on the strokes. For example...
+``` Javascript
+  if (strokes == 1){
+    return  "Hole-in-one!";
+  }
+  else if (strokes <= par - 2){
+    return "Eagle";
+  }
+```
+... and so on.
+
+At first, the code didn't pass and I wasn't sure why. Then I after some searching, I realized I had been using the assignment operator, =, instead of the equality operator, ==. After changing all the =s to ==, I was able to proceed. 
