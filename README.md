@@ -122,4 +122,29 @@ For my hour today, I worked through a bunch of Javascript lessons in FreeCodeCam
 
 Today I also learned about bracket notation in Javascript and how you can use it to find the length of a string or a certain character in a string.
 
-Additionally, I got into arrays a little! I vaguely remember arrays from college and I feel like they are very important. 
+Additionally, I got into arrays a little! I vaguely remember arrays from college and I feel like they are very important.
+
+## Day 24
+Wow! I feel like I covered a lot of important concepts in the FreeCodeCamp lessons today. I worked through Javascript some more and learned about Javascript functions, passing, arguments and global and local variables. I did get stuck on one lesson today. The idea was that there was a function with an array (arr) and a number (item). You were supposed to write code that would add a number onto the end of the array and remove the first element from the array, then return the removed element. Right away I realized I needed to use .push() and .shift(). So I got that far at least. After that I was stuck. I did realize item needed to be inside .push() and 0 needed to be in .shift() because of the zero indexing (or so I thought on that last part). Then I was lost. I looked at the hints and tried to figure it out, but no luck. So here is the solution:
+
+``` Javascript
+
+function nextInLine(arr, item) {
+  // Your code here
+  arr.push(item);
+
+  return arr.shift();  // Change this line
+}
+
+// Test Setup
+var testArr = [1,2,3,4,5];
+
+// Display Code
+console.log("Before: " + JSON.stringify(testArr));
+console.log(nextInLine(testArr, 6)); // Modify this line to test
+console.log("After: " + JSON.stringify(testArr));
+```
+
+I feel good that I was able to figure out the basic concepts needed to solve the problem, but wish I could have figured it out on my own without having to look at the solution. It is all very logical and makes sense, after the fact of course. I feel like also maybe being out in the real world/wild/coding something for myself I could have figured this out. Using arbitrary values like "arr" and "item" sometimes makes it harder to solve problems I think. Or at least that's what I'm telling myself.
+
+Anyway, I marched forward and also learned about Booleans and a bunch of different equality operators! Those seem  pretty straight forward at least. The next lessons involve else statments, so that will be interesting. 
