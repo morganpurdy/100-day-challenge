@@ -163,4 +163,23 @@ I ended today on writing a Golf code function. It returned a certain string base
 ```
 ... and so on.
 
-At first, the code didn't pass and I wasn't sure why. Then I after some searching, I realized I had been using the assignment operator, =, instead of the equality operator, ==. After changing all the =s to ==, I was able to proceed. 
+At first, the code didn't pass and I wasn't sure why. Then I after some searching, I realized I had been using the assignment operator, =, instead of the equality operator, ==. After changing all the =s to ==, I was able to proceed.
+
+## Day 27
+I didn't have a lot of extra time to spend on coding stuff today but I did get to try out Javascript switch statements. These statements execute certain blocks of code depending on different cases. I think I read that they are also kind of interchangeable with if/else statements. So I kind of wonder what circumstances would definitely call for one or the other. Maybe that will become clear down the road. The lesson on FreeCodeCamp for the switch statement was kind of confusing. The structure goes (based on pseudocode from the site):
+
+``` Javascript
+switch (num) {
+  case value1:
+    statement1;
+    break;
+  case value2:
+    statement2;
+    break;
+...
+  case valueN:
+    statementN;
+    break;
+}
+```
+I was messing up the statement part each time that was keeping me from moving on in the lessons. The FreeCodeCamp lesson mentioned the strict equality operator when that really wasn't needed in the code solution. All that was needed was the assignment operator. I was stuck for a little bit, but after doing some Googling and finding a good w3 schools description, I was able to pass that step, which felt good!
