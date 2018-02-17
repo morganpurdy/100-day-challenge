@@ -233,3 +233,5 @@ cc(2); cc(3); cc(7); cc('K'); cc('A');
 To anyone else looking at this maybe the solution is obvious, but I am still working it out! I hope to update this later when I get to the bottom of it.
 
 While I was at it today I took some notes on Javascript wording. I think the jargon sometimes gets me confused, especially when I get the same error message a lot and I'm not sure what it really means!
+
+UPDATE: so after some consideration, I have changed the above code. I really think 'answer' needs to be count++, count or count-- since that is what's incrementing or decrementing. Still hasn't solved the problem but maybe I am closer...
