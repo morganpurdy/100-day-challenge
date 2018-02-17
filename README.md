@@ -183,3 +183,53 @@ switch (num) {
 }
 ```
 I was messing up the statement part each time that was keeping me from moving on in the lessons. The FreeCodeCamp lesson mentioned the strict equality operator when that really wasn't needed in the code solution. All that was needed was the assignment operator. I was stuck for a little bit, but after doing some Googling and finding a good w3 schools description, I was able to pass that step, which felt good!
+
+## Day 29
+Didn't get to check in yesterday so I am trying to make up for that today! This morning I worked through some more lessons on switch statements, returning boolean values from functions and replacing if/else statements with switch. I did learn that sometimes switch statements are handy when trying to chain together many if/else statements. Like if you are trying to do one for ranges, where 1-3 would return the same thing, 4-6, etc. So that's good to know!
+
+Then I have come to a lesson called "counting cards". I have seem some complaints around about this lesson on the 100 days social media accounts where I think maybe some people have been getting stuck. I went into it with an optimistic mindset but I am still having some trouble! The object of the lesson is to write a card counting function. In the end it should return a string with the current count and "bet" or "hold" depending on if the count is odd, even, or zero. I set it up as a switch statement based on the table given for the challenge. I was right away able to make it return "hold" or "bet". But returning the count is tricky for me. I am relying on the Read/Search/Ask methodology here. I really would like to finish this challenge without looking at the "get a hint" section on FreeCodeCamp. So far, I have had some success! I remembered a little about incrementing/decrementing numbers in Javascript and I know that has to come into play somewhere. There is a global count variable that I am setting up as either "count++" or "count--" but right now it is only returning null. Which actually is a success in and of itself because at first I could only get hold/bet to appear. Then after more googling I learned that to print two values, it needs to be set up as an array. So here is the code I have right now (I want to include it so I can come back later when I have gotten past this challenge):
+
+``` Javascript
+var count = 0;
+
+function cc(card) {
+  // Only change code below this line
+  switch (card){
+    case 2:
+    case 3:
+    case 4:
+    case 5:
+    case 6:
+     answer = [card++ , "Bet"];
+     break;
+
+    case 7:
+    case 8:
+    case 9:
+      answer = [card, "Hold"];
+      break;
+
+    case 10:
+    case "J":
+    case "Q":
+    case "K":
+    case "A":
+      answer = [card--, "Hold"];
+      break;
+
+
+  }
+
+  return answer;
+  // Only change code above this line
+}
+
+// Add/remove calls to test your function.
+// Note: Only the last will display
+cc(2); cc(3); cc(7); cc('K'); cc('A');
+
+```
+
+To anyone else looking at this maybe the solution is obvious, but I am still working it out! I hope to update this later when I get to the bottom of it.
+
+While I was at it today I took some notes on Javascript wording. I think the jargon sometimes gets me confused, especially when I get the same error message a lot and I'm not sure what it really means!
