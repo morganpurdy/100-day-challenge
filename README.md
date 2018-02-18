@@ -235,3 +235,49 @@ To anyone else looking at this maybe the solution is obvious, but I am still wor
 While I was at it today I took some notes on Javascript wording. I think the jargon sometimes gets me confused, especially when I get the same error message a lot and I'm not sure what it really means!
 
 UPDATE: so after some consideration, I have changed the above code. I really think 'answer' needs to be count++, count or count-- since that is what's incrementing or decrementing. Still hasn't solved the problem but maybe I am closer...
+
+## Day 30
+A month in! Feels good to have made it this far. Today I continued with Javascript lessons. So I have an answer from yesterday's challenge. Here is the correct code:
+
+``` Javascript
+var count = 0;
+
+function cc(card) {
+  // Only change code below this line
+switch(card){
+    case 2:
+    case 3:
+    case 4:
+    case 5:
+    case 6:
+     count++;
+     break;
+    case 10:
+    case "J":
+    case "Q":
+    case "K":
+    case "A":
+      count--;
+      break;
+}
+
+  if (count > 0){
+    answer = count + " Bet";
+  }
+
+  else {
+    answer = count + " Hold";
+
+  }
+
+  return answer;
+  // Only change code above this line
+}
+
+```
+
+So I was close... ish yesterday. I was right when I realized I needed to use count instead of card in the switch statement. I just wasn't on the right track when it came to returning the second half of the problem, bet vs. hold. I thought I could set it all up in the switch statement, but I guess you can't. You have to set up an if/else statement for that. I figured that out after looking at a hint for the problem. In hindsight I understand how it works but it did stump me while I was working on it.
+
+Anyway, today I started working with javascript objects. They are kind of like arrays but are different in that you use properties to access/modify the data. So I learned about that, and using the dot operator and bracket notation to add to and modify the properties. Then I came to a lesson called "Using objects for lookups". Objects can be an alternative to switch statements and if/else statements if you have a certain kind of data. For this challenge I had to rewrite the switch statement into a lookup table. I was able to get that setup just fine, but returning the correct answer was really throwing me off. There was a "return result;" line at the end of the code block so I knew I had to have a result = 'something'. That is where I was uncertain. I tried some combos of lookup.val, val.lookup, etc. (val being what I was looking up and lookup the name of the object). None of that worked. I was really stuck on using the dot operator because one message popped up saying that was the best way to do it. Then the answer turned out to be "result = lookup[val];". So I was circling around the right place for a while which feels good.
+
+As I have been working through some of these lessons, I feel like I have a tendency to complicate some of the coding when I don't need to. Especially on that counting cards challenge. Going forward I want to keep in mind that code can be pretty literal, (example: result above really just saying "lookup the value" but with brackets). So I hope I can start trying to think in a different mindset when it comes to some of these challenges. 
