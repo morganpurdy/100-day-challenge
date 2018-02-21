@@ -289,3 +289,6 @@ THEN I found this w3schools page (https://www.w3schools.com/howto/howto_js_navba
 
 ## Day 32
 Today I spent a little more time tweaking my portfolio page and working more on some HTML/CSS. I had a great revelation about columns in Bootstrap! You can set multiple column widths per element, example div class ="col-md-4 col-sm-6" for different layouts. So that's cool! I think I have had a nice break from just going through lessons on FreeCodeCamp. I feel more engaged this way and like I'm getting things done. I think I should starting brainstorming some ideas for projects using Javascript skills I learned! That way I feel more involved in my learning and I think it will reinforce concepts for me. So let the brainstorming begin!
+
+## Day 33
+I worked a little more on some real life HTML/CSS code to adjust a mockup. I have been learning a lot between that and working on my own portfolio page some more. I have been a little distracted lately though and not able to focus fully on any FreeCodeCamp lessons since to me they take a fair amount of concentration. I will be getting back to those probably later this week. I need to decide what kind of practical use I want to try out with my Javascript skills. I am wondering if I would be able to figure out how to get the contact form on my portfolio in better, working order. I will try to read up on that.
