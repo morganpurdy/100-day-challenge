@@ -292,3 +292,11 @@ Today I spent a little more time tweaking my portfolio page and working more on 
 
 ## Day 33
 I worked a little more on some real life HTML/CSS code to adjust a mockup. I have been learning a lot between that and working on my own portfolio page some more. I have been a little distracted lately though and not able to focus fully on any FreeCodeCamp lessons since to me they take a fair amount of concentration. I will be getting back to those probably later this week. I need to decide what kind of practical use I want to try out with my Javascript skills. I am wondering if I would be able to figure out how to get the contact form on my portfolio in better, working order. I will try to read up on that.
+
+## Day 34
+The second half of my weeks have been tricky to get in any coding time lately! I have had to resort mainly to reading over the last couple of days. I have read a lot about some HTML and CSS basics and other coding topics, including what tools some people wish they had when they first started coding and just straightforward industry advice.
+
+ I work really well with to do lists so I am going to list here some things I hope to accomplish over the next couple of days:
+* Work more on my portfolio site for practice
+* Try out some media queries in the css for my portfolio site so I improve my knowledge about them
+* Proceed with FreeCodeCamp Javascript lessons. Those have come to a halt as of late.
