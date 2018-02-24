@@ -300,3 +300,6 @@ The second half of my weeks have been tricky to get in any coding time lately! I
 * Work more on my portfolio site for practice
 * Try out some media queries in the css for my portfolio site so I improve my knowledge about them
 * Proceed with FreeCodeCamp Javascript lessons. Those have come to a halt as of late.
+
+## Day 36
+So I missed out on doing any coding work yesterday. But I am trying to make up for it by getting some stuff done from my list two days ago. I accomplished the first item at least. I worked on my portfolio site with the intention of changing the color of the list items in my navbar when I hovered over them. While I have not achieved that today, I did change another hover color, kind of by accident! At the bottom of my CSS I had an a selector that was set to "color: inherit". I added a couple more lines and voila! The social media icons at the bottom of my portfolio page now change color when hovered on. So that's cool, but wasn't my original intention. Still figuring out the list item thing!
