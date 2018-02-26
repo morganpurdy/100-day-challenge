@@ -306,4 +306,7 @@ So I missed out on doing any coding work yesterday. But I am trying to make up f
 
 Oh! And I also kind of solved a problem I had been having with the navbar itself. When viewed in the "inspect" view and in responsive mode, the dropdown wasn't working. I saw an error message noting some scripts I was missing so I added those, and it works now! It still doesn't look right when it actually drops down but it's a step in the right direction.
 
-Oh, part two! I figured out the list item thing. Duh! So Bootstrap has a hover color originally but I wanted to change it to more suit my personality and site design. So I added "!important" (used sparingly) and BOOM! My list items appear purple when hovered over now. 
+Oh, part two! I figured out the list item thing. Duh! So Bootstrap has a hover color originally but I wanted to change it to more suit my personality and site design. So I added "!important" (used sparingly) and BOOM! My list items appear purple when hovered over now.
+
+## Day 37
+Today my coding time was spent with my fellow code challengers! We try to all get together once a week to share what we are up to in the process. Some of us are newbies, newbies-ish, in code school and even have full time development jobs. It's such a cool time to absorb new ideas and get help if needed. Tomorrow I will be back at it with hands on coding and lessons!
