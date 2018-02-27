@@ -310,3 +310,8 @@ Oh, part two! I figured out the list item thing. Duh! So Bootstrap has a hover c
 
 ## Day 37
 Today my coding time was spent with my fellow code challengers! We try to all get together once a week to share what we are up to in the process. There's so much excitement going on in our group, from new jobs to schools to projects, and it's awesome.  It's such a cool time to absorb new ideas and get help if needed. Tomorrow I will be back at it with hands on coding and lessons!
+
+## Day 38
+I got in some more coding tonight! For practice mainly I decided I wanted to add an image to my site header and have my text on top of that. And then when user scroll past that they see the rest of my site with the sticky nav bar. I had some trouble originally. I was using a z-index but it wasn't working right for me. After some Googling I figured it out: only elements with certain positions can also hold a z-index. So that helped but then the text wasn't appearing where I wanted it to. After some more messing around I added a <section> tag, which I have never utilized before, instead of attaching this particular code to the <body> and it worked like a charm! Yay! Then looking at in the smaller mode with the dev tools I realize what I have done may not be totally smart phone friendly, which is a bummer. It required setting a specific height on the header image that looks good on big screens, but I think turns out to be too deep on smart phones. We'll see. I'll have to think on what I want to do about that!
+
+I did, however, add an animation to my page, and it was super simple! I linked animate.css and added a "fadeInLeft" and it was so easy and adds a nice touch I think. Cool discovery to help me practice things!
