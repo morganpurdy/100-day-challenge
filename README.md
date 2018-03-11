@@ -351,3 +351,8 @@ I did a lot more reading about coding tonight than actual coding. I get emails t
 I read another one about going from being a graphic designer to front end developer in five months, so that was cool. But that particular article led to this: **"Learn to code in 2018, get hired, and have fun along the way"**. (https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a)
 
 It was a really in-depth and researched article. It is making me consider it's accompanying Udemy course that sounds awesome too. Either way it had a lot of really great info I can reference in the future! The kind of articles I read today just revive/reinforce my interest in coding and re-inspire me to keep plugging along. Feels good!
+
+## Day 50
+Wow, didn't realized today marked the halfway point of the challenge! It's really cool how much I have gotten back into coding in the last couple of months. I have completed many lessons on both Codecademy and FreeCodeCamp to expand my knowledge. I built a tribute page, a basic portfolio page and the beginning of a practice multi-page site. I have also read so many articles that have left me feeing encouraged.
+
+I missed out on coding anything yesterday. But today I worked through some more Codecademy lessons and also went back to the profile lookup on FreeCodeCamp. I think I finally have the structure I need with the if statement nested in the for loop. I still don't have it figured out but I am determined to solve this one just on my own using their read-search-ask method. I have found some helpful links on google that way so far! But I am hoping my challenge myself here to do it mostly on my own (as simple as this challenge may turn out to be) it will help me think more like a developer. 
