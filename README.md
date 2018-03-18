@@ -362,3 +362,6 @@ Today I enjoyed chatting with everyone about code and where they are at in their
 
 ## Day 53
 Yesterday I was able to get some coding in but wasn't able to log about it. I just went through a few more Codecademy javascript lessons. Wasn't much but better than nothing! The next couple of days I have a visitor in town so won't really log anything during those days but I should be back at the end of the week ready to get back into it!
+
+## Day 58
+I think it's day 58 at least! I got behind because I had a visitor in town last week, but I tried to get back on the coding train today. I did some more Codecademy lessons on Javascript. What I thought was interesting was I learned about the conditional/ternary operator, which FreeCodeCamp did not teach in it's lessons so far. I don't know how widely this operator is used, but seems like it could be useful!
