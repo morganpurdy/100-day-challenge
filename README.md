@@ -365,3 +365,6 @@ Yesterday I was able to get some coding in but wasn't able to log about it. I ju
 
 ## Day 58
 I think it's day 58 at least! I got behind because I had a visitor in town last week, but I tried to get back on the coding train today. I did some more Codecademy lessons on Javascript. What I thought was interesting was I learned about the conditional/ternary operator, which FreeCodeCamp did not teach in it's lessons so far. I don't know how widely this operator is used, but seems like it could be useful!
+
+## Day 59
+I worked on some more Javascript lessons on Codecademy today. It was going over functions and parameters that I have already worked through a little in freecodecamp. But I have liked Codecademy a little bit more for javascript so far because it spells it out for you a little more. FreeCodeCamp was great for building problem solving skills with javascript but I think I needed this rewind to really focus on the fundamentals. 
