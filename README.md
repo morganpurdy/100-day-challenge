@@ -377,3 +377,6 @@ So I skipped logging yesterday but did get some coding time in before work. I wo
 
 ## Day 67
 I am back! I had another visitor in town over the last couple of days so I have really been thrown off my coding game. But I got back to doing some lessons today and it feels really good. I feel ready to go again! I started with some refreshers today basically, I read over a bunch of the notes I have taken on Javascript and I worked through some more lessons on Codecademy on Javascript scope. I finished those up after learning about global vs. block scope. The next module in the Javascript component is arrays. I learned a little about arrays already doing freecodecamp but learning it again in a slightly different way can't hurt!
+
+## Days 68-70
+Lately I have gotten away from logging my coding but I have been keeping up with it! I have been going through more of the Codecademy lessons on Javascript. The other day I worked on arrays and loops. I think this fundamental explanation helped me in a different way than freecodecamp so that was nice reinforcement. Next up is iterator methods, starting with .forEach(). Looking forward to continuing to plug away!
