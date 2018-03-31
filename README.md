@@ -380,3 +380,6 @@ I am back! I had another visitor in town over the last couple of days so I have 
 
 ## Days 68-70
 Lately I have gotten away from logging my coding but I have been keeping up with it! I have been going through more of the Codecademy lessons on Javascript. The other day I worked on arrays and loops. I think this fundamental explanation helped me in a different way than freecodecamp so that was nice reinforcement. Next up is iterator methods, starting with .forEach(). Looking forward to continuing to plug away!
+
+## Day 72
+I think that's what day it is now? I haven't been great at keeping up with logging lately but I have at least (mostly) still been doing some coding. Today I worked on more iterators in the Codecademy javascript lessons. It got into minor troubleshooting of iterator documentation at the end so that was cool and a good skill to have, I'm sure. I feel kind of bad because I haven't been able to work on any of my personal projects lately, I've just been doing lessons. But they have fit better with my schedule. I am hoping in the next couple of days when I have more time I can take a deeper look at both my fake apartment page and the my personal portfolio page!
