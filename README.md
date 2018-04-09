@@ -383,3 +383,6 @@ Lately I have gotten away from logging my coding but I have been keeping up with
 
 ## Day 72
 I think that's what day it is now? I haven't been great at keeping up with logging lately but I have at least (mostly) still been doing some coding. Today I worked on more iterators in the Codecademy javascript lessons. It got into minor troubleshooting of iterator documentation at the end so that was cool and a good skill to have, I'm sure. I feel kind of bad because I haven't been able to work on any of my personal projects lately, I've just been doing lessons. But they have fit better with my schedule. I am hoping in the next couple of days when I have more time I can take a deeper look at both my fake apartment page and the my personal portfolio page!
+
+## Day 80
+Crazy to think we are 80 days into the challenge. I have fallen off the wagon and missed about a week of coding. I think I really just needed a mental break. But I am ready to jump back into it tomorrow! I work tomorrow and then I have two days off so I am hoping that will help me get back into the swing of things. I want to continue working on my practice build site and my portfolio site! I also have a 30 day Javascript challenge on the horizon. A lot of excitement coming up hopefully!
