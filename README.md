@@ -386,3 +386,6 @@ I think that's what day it is now? I haven't been great at keeping up with loggi
 
 ## Day 80
 Crazy to think we are 80 days into the challenge. I have fallen off the wagon and missed about a week of coding. I think I really just needed a mental break. But I am ready to jump back into it tomorrow! I work tomorrow and then I have two days off so I am hoping that will help me get back into the swing of things. I want to continue working on my practice build site and my portfolio site! I also have a 30 day Javascript challenge on the horizon. A lot of excitement coming up hopefully!
+
+## Day 81
+I am back on track! Today I worked on some more Codecademy javascript lessons on iterator documentation and I realized I am BAD at them. Maybe the lessons weren't the most intuitive but one of them called for me to fix errors in the code for a some() method and I couldn't figure out what was wrong. I am definitely using the Mozilla developer network web docuemnts to help but it wasn't enough. I think this is something I will have to focus more on in the future.
