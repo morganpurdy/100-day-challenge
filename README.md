@@ -389,3 +389,16 @@ Crazy to think we are 80 days into the challenge. I have fallen off the wagon an
 
 ## Day 81
 I am back on track! Today I worked on some more Codecademy javascript lessons on iterator documentation and I realized I am BAD at them. Maybe the lessons weren't the most intuitive but one of them called for me to fix errors in the code for a some() method and I couldn't figure out what was wrong. I am definitely using the Mozilla developer network web docuemnts to help but it wasn't enough. I think this is something I will have to focus more on in the future.
+
+## Day 82
+Getting back into the swing of things and I have been meaning to work on my portfolio page for a while now, so that's what I did today. A month or two back I realized the setup of my one-page scrolling portfolio site was not compatible at all with mobile. And that was no good since I really should be designing for mobile first! So I had to fix that. I had an image at the top of the page with intro text on top of it and a nav bar below that would stick to the top of the screen upon scrolling. So I had an image height of 250px and a margin-top on the nav bar and rest of the page of 250px so it balanced out. But on mobile, since the image was responsive it got smaller and left a big, awkward gap between the image and the nav bar on a small screen. Before tackling it this morning I brainstormed how to fix it. Maybe just changing the height/margin to a percentage would work? It didn't. Same issue arose.
+
+After monkeying with it for a while, I realized the intro text was causing the issue. Part of it was my name, and when the screen got smaller it bumped my last name onto a new line and caused the weird gap. So then I searched for a solution. I thought maybe I could use a responsive font unit so my name would never break into two lines. So I found the units "vw" and "vh" for viewport width and viewport height. This is more than just responsive typography, it's fluid typography! (here is a link that I was looking at if anyone is interested: https://www.smashingmagazine.com/2016/05/fluid-typography/). But I don't really know how widely those units are used so I moved away from that.
+
+Then I started thinking if this was really even the setup I wanted for my portfolio site. A main image with scrolling nav bar, intro text, etc? I did it at first because it was a cool concept and I wanted just to see if I could! And I could... kind of. So long story short I have done a mini redesign of the top of my portfolio page I like much better. I have more grand plans for it, but that's where I'm at for right now.
+
+Also adding in a list of things I want to focus on going forward for the last two-ish weeks of the challenge:
+* Learn about media queries!! They still baffle me because I can't seem to get them to work.
+* Continue working on apartment mockup website and making it look better. Especially the home page!
+* Continue with javascript lessons. It's so important! Look more into the 30 day javascript challenge.
+* Maybe look more at iterator documentation since that threw me off the other day... 
