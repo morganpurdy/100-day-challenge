@@ -401,4 +401,7 @@ Also adding in a list of things I want to focus on going forward for the last tw
 * Learn about media queries!! They still baffle me because I can't seem to get them to work.
 * Continue working on apartment mockup website and making it look better. Especially the home page!
 * Continue with javascript lessons. It's so important! Look more into the 30 day javascript challenge.
-* Maybe look more at iterator documentation since that threw me off the other day... 
+* Maybe look more at iterator documentation since that threw me off the other day...
+
+## Day 83
+Wow guys, a breakthrough! It's so simple, but I think I may finally understand media queries and why they weren't working for me before. I watched a short tutorial video this morning and the person was putting them at the bottom of the CSS document, which makes total sense. The last rule is the one the computer/device will recognize. My problem before was I was putting my media queries at the top of my CSS document thinking it would 'override' I guess. But I'm so glad I discovered this! I am still struggling with layering and positioning on web pages. Maybe I should look for a tutorial that could help me with that too.
