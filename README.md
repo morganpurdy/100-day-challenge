@@ -405,3 +405,6 @@ Also adding in a list of things I want to focus on going forward for the last tw
 
 ## Day 83
 Wow guys, a breakthrough! It's so simple, but I think I may finally understand media queries and why they weren't working for me before. I watched a short tutorial video this morning and the person was putting them at the bottom of the CSS document, which makes total sense. The last rule is the one the computer/device will recognize. My problem before was I was putting my media queries at the top of my CSS document thinking it would 'override' I guess. But I'm so glad I discovered this! I am still struggling with layering and positioning on web pages. Maybe I should look for a tutorial that could help me with that too.
+
+## Day 88
+Today I added a little to my personal portfolio site. I added two additional pages, one for my web designs and one for my print designs. My main page is a scrolling page with all the content there and I am linking it to these two pages. For user experience I have the nav bar at the top and I am wondering if it is weird to link back to the main scrolling page for all of those items... Gonna think on that for a little bit but for right now wanted to get the ball rolling on these new pages. 
