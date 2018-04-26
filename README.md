@@ -420,4 +420,9 @@ Today rocked! I didn't code a lot but what I added to my portfolio site was grea
 
 It is very stylish and clean so I am happy with its implementation. There are still some kinks to work out like the shape of the images and maybe streamlining them for better display in the grid. Something to consider.
 
-I also want to leave this link here for the future: https://legacy.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details . It's a "Front End developer handbook for 2018" and it seems super super useful. Seems like it will be good for reference and learning going forward. Maybe a good thing to have for days that I might not be able to code and can just read instead. 
+I also want to leave this link here for the future: https://legacy.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details . It's a "Front End developer handbook for 2018" and it seems super super useful. Seems like it will be good for reference and learning going forward. Maybe a good thing to have for days that I might not be able to code and can just read instead.
+
+## Day 97
+Wow didn't realize how close I am to the end of the challenge! It's going to be kind of anticlimactic for all the work I have done. I hope to post a good recap in the next couple of days but I am going out of town this weekend so it may have to wait until I get back. I do have my eyes on the future though! I am looking past the end of the challenge and today I signed up for a 30 day Javascript challenge. I watched the intro video and that was it today but I am excited for what is coming up.
+
+I did work through some more Codecademy lessons today though. I learned about getter and setter methods and just barely got into Javascript classes before I had to call it quits for the day. I really want to focus on javascript for the near future. 
